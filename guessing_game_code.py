@@ -15,5 +15,3 @@ while (guesses != randomNo):
 			print("Please enter bigger number")
 			
 print(f"The no of guesses taken are: {noGuess}")
-
-print("Thank you for using")
